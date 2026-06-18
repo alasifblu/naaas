@@ -12,7 +12,7 @@
 | # | File | Title | Phase | Status |
 |---|------|-------|-------|--------|
 | D01 | phase-1-foundation/BLU_D01_NGO_Profile.md | NGO Profile Document | 1 | Complete |
-| D02 | phase-1-foundation/BLU_D02_Strategic_Plan.md | 3-Year Strategic Plan | 1 | In progress |
+| D02 | phase-1-foundation/BLU_D02_Strategic_Plan.md | 3-Year Strategic Plan | 1 | Complete |
 | D03 | phase-1-foundation/BLU_D03_Theory_of_Change.md | Theory of Change | 1 | Pending |
 | D04 | phase-2-textbooks/BLU_D04_Textbook_Master_Framework.md | Textbook Master Framework | 2 | Pending |
 | D05 | phase-2-textbooks/BLU_D05_Class1_Textbook.md | Class 1 Textbook — "Hello, Good Me!" | 2 | Pending |
